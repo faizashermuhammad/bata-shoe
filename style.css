@@ -1,0 +1,22 @@
+nav{
+    text-align: center;
+    color: black;
+    border:double;
+    border-color:blue
+    
+}figcaption{
+    float: right;
+    padding: 10px;
+    background-color: lightgray;
+    
+}
+.gallery{
+    margin:10px 40px;
+}
+.gallery img{
+    width:230px;
+    padding: 4px;
+   
+    h1{
+        font-family: cursive;
+    }
